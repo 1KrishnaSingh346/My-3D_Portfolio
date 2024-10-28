@@ -26,6 +26,10 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import youtube from './youtube.svg'
+import Python from './Python.svg'
+import C from './C.svg'
+import GDG from './GDG.svg'
 
 export {
     css,
@@ -55,5 +59,9 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    youtube,
+    Python,
+    C,
+    GDG
 }
