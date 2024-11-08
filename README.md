@@ -21,5 +21,5 @@ The **3D Portfolio** allows users to explore my professional journey in a new di
 
 ## 🎮 Demo
 
-Check out the live version [here](#https://3dportfolio1214.netlify.app/) .
+Check out the live version [here](https://3dportfolio1214.netlify.app/) .
 
